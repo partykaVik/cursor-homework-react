@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "//github.com/partykaVik/cursor-homework-react/static/css/main.ad352bda.chunk.css",
+    "main.js": "//github.com/partykaVik/cursor-homework-react/static/js/main.02dba6f4.chunk.js",
+    "main.js.map": "//github.com/partykaVik/cursor-homework-react/static/js/main.02dba6f4.chunk.js.map",
+    "runtime-main.js": "//github.com/partykaVik/cursor-homework-react/static/js/runtime-main.66b9afb2.js",
+    "runtime-main.js.map": "//github.com/partykaVik/cursor-homework-react/static/js/runtime-main.66b9afb2.js.map",
+    "static/js/2.9d9303b9.chunk.js": "//github.com/partykaVik/cursor-homework-react/static/js/2.9d9303b9.chunk.js",
+    "static/js/2.9d9303b9.chunk.js.map": "//github.com/partykaVik/cursor-homework-react/static/js/2.9d9303b9.chunk.js.map",
+    "static/js/3.0e34e8fb.chunk.js": "//github.com/partykaVik/cursor-homework-react/static/js/3.0e34e8fb.chunk.js",
+    "static/js/3.0e34e8fb.chunk.js.map": "//github.com/partykaVik/cursor-homework-react/static/js/3.0e34e8fb.chunk.js.map",
+    "index.html": "//github.com/partykaVik/cursor-homework-react/index.html",
+    "static/css/main.ad352bda.chunk.css.map": "//github.com/partykaVik/cursor-homework-react/static/css/main.ad352bda.chunk.css.map",
+    "static/js/2.9d9303b9.chunk.js.LICENSE.txt": "//github.com/partykaVik/cursor-homework-react/static/js/2.9d9303b9.chunk.js.LICENSE.txt",
+    "static/media/Anakin.950658a6.jpg": "//github.com/partykaVik/cursor-homework-react/static/media/Anakin.950658a6.jpg",
+    "static/media/comment.69c735c2.svg": "//github.com/partykaVik/cursor-homework-react/static/media/comment.69c735c2.svg",
+    "static/media/image_post.19025a32.jpg": "//github.com/partykaVik/cursor-homework-react/static/media/image_post.19025a32.jpg",
+    "static/media/like.ff986779.svg": "//github.com/partykaVik/cursor-homework-react/static/media/like.ff986779.svg",
+    "static/media/retweet.2d1a5fdf.svg": "//github.com/partykaVik/cursor-homework-react/static/media/retweet.2d1a5fdf.svg",
+    "static/media/share.b579cb9a.svg": "//github.com/partykaVik/cursor-homework-react/static/media/share.b579cb9a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66b9afb2.js",
+    "static/js/2.9d9303b9.chunk.js",
+    "static/css/main.ad352bda.chunk.css",
+    "static/js/main.02dba6f4.chunk.js"
+  ]
+}
