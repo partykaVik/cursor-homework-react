@@ -10,7 +10,6 @@ import Photo_8 from './../../img/gallery/photo_8.webp';
 import Photo_9 from './../../img/gallery/photo_9.webp';
 import Photo_10 from './../../img/gallery/photo_10.webp';
 import Photo_11 from './../../img/gallery/photo_11.webp';
-import Photo_12 from './../../img/gallery/photo_12.webp';
 
 const photoArray = [
 	{ id: 1, path: Photo_1 },
@@ -30,7 +29,7 @@ function Gallery() {
 	return (
 		<div className="gallery">
 			{photoArray.map(photo => (
-				<img key={photo.id} src={photo.path} />
+				<img src={photo.path} key={photo.id} alt="not found" />
 			))}
 		</div>
 	);
