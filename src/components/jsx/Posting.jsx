@@ -15,7 +15,7 @@ function Posting() {
 					avatar: ANAKIN_IMAGE,
 					nickname: '@dart_vader',
 					date: 'Jul 31',
-					text: 'WTF? Who is Ray? Why she is Skywalker? Luke...? Fuck...',
+					text: 'WTF? Who is Ray? Why she is Skywalker? Luke...?',
 					photo: RAY_IMAGE,
 				}}
 				amountComment="350"
